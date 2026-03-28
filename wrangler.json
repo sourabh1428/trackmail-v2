@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "trackmail-v2",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "a056a24b-f3df-454e-9217-9d62d5cb4213",
+			"database_name": "trackmail-v2-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
